@@ -1,5 +1,7 @@
 # SergeantAI
 
+https://github.com/Actorsam123/SergeantAI/blob/main/sergeant-ai-first-demo.mp4
+
 🚧 **Status:** Active development (functional prototype)
 
 **SergeantAI** is an iOS accountability assistant focused on habit reinforcement, efficient scheduling, and structured, drill-sergeant-style feedback. The app is designed to move beyond passive reminders by enforcing consequences.

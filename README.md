@@ -1,6 +1,6 @@
 # SergeantAI
 
-https://github.com/Actorsam123/SergeantAI/blob/main/sergeant-ai-first-demo.mp4
+[https://github.com/Actorsam123/SergeantAI/blob/main/sergeant-ai-first-demo.mp4](https://github.com/user-attachments/assets/a79f0170-3d34-4f11-a6de-af436ecf844e)
 
 🚧 **Status:** Active development (functional prototype)
 

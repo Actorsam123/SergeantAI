@@ -52,7 +52,7 @@ final class ChatViewModel: ObservableObject {
     @Published var userInput: String = ""
     @Published var isLoading: Bool = false
     
-    private let apiKey = "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"
+    private let apiKey = "OPENAI_API_KEY"
     private let endpoint = URL(string: "https://api.openai.com/v1/chat/completions")!
     
     var context: ModelContext?
@@ -80,7 +80,7 @@ final class ChatViewModel: ObservableObject {
         let trimmed = userInput.trimmingCharacters(in: .whitespacesAndNewlines)
         guard !trimmed.isEmpty else { return }
 
-        userInput = ""   // ✅ CLEAR IMMEDIATELY (UI action)
+        userInput = ""
 
         guard let context else { return }
 
